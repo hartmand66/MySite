@@ -1,0 +1,14 @@
+p{
+    
+     color:blue;
+     font-family: helvetica;
+     font-weight: bold;
+     font-size: 28px;
+     border-top: 4px solid green;
+     padding: 20px;
+     margin: 100px;
+     
+}
+body {
+	background-color: black;
+}

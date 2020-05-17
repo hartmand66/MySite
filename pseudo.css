@@ -1,0 +1,10 @@
+p::first-letter{
+	font-size: 200%;
+	color: blue;
+}
+p::before{
+	content: "SOMETHING";
+}
+p::after{
+	content:"Something else";
+}
